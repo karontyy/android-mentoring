@@ -10,13 +10,18 @@ Para visualizar os roadmaps acesse o [DRAW.IO](https://draw.io)  e importe para 
 #### JAVA
 
  - [Curso Java Básico -  Curso em
-   Video](https://www.youtube.com/playlist?list=PLHz_AreHm4dkI2ZdjTwZA4mPMxWTfNSpR)
+   Video  - Youtube - Free](https://www.youtube.com/playlist?list=PLHz_AreHm4dkI2ZdjTwZA4mPMxWTfNSpR)
    
  - [Curso POO Java - Curso em
-   Vídeo](https://www.youtube.com/playlist?list=PLHz_AreHm4dkqe2aR0tQK74m8SFe-aGsY)
+   Vídeo  - Youtube - Free](https://www.youtube.com/playlist?list=PLHz_AreHm4dkqe2aR0tQK74m8SFe-aGsY)
 
 
 #### KOTLIN
 
  - [Curso Kotlin Básico - Rapadura
-   Dev](https://www.youtube.com/playlist?list=PLlGFv5gh9fBIJ8SEaQ_AKon-uenAlUbjE)
+   Dev  - Youtube - Free](https://www.youtube.com/playlist?list=PLlGFv5gh9fBIJ8SEaQ_AKon-uenAlUbjE)
+
+#### ANDROID STUDIO
+
+ - [Instalando e configurando o AS - Stack Mobile - Youtube -
+   Free](https://www.youtube.com/watch?v=gweuhmJlhE0)
