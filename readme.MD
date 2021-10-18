@@ -8,7 +8,7 @@
 	 - [Kotlin](#kotlin)
 	 - [Android Studio](#android-studio)
 	 - [Android Development](#android-development)
-	 - [Requisições a API](#requisicoes-a-api)
+	 - [Requisições a API](#requisições-a-api)
 - [Libs Importantes](#libraries-importantes) 
 	- [Retrofit](#retrofit)
 	- [Gson](#gson)
