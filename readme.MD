@@ -8,12 +8,17 @@
 	 - [Kotlin](#kotlin)
 	 - [Android Studio](#android-studio)
 	 - [Android Development](#android-development)
-	 - [Requisições a API](#requisições-a-api)
+	 - [Requisições a API](#requisicoes-a-api)
+	 - [Lista de Apis Abertas](#lista-de-apis-abertas)
 - [Libs Importantes](#libraries-importantes) 
 	- [Retrofit](#retrofit)
 	- [Gson](#gson)
 	- [Picasso](#picasso)
 	- [Glide](#glide)
+- [Desafios](#desafios)
+	- [Level 1](#level-1)
+	- [Level 2](#level-2)
+	- [Level 3](#level-3)
 ## Roadmaps
 [Repo com Roadmaps - Em Construção ](https://github.com/guilhermeberson/android-mentoring/tree/main/roadmaps)
 
@@ -62,6 +67,10 @@ Para visualizar os roadmaps acesse o [DRAW.IO](https://draw.io)  e importe para 
  - [ 🗒 Consumindo API REST no Android com Retrofit em Kotlin — Parte
    2](https://medium.com/collabcode/consumindo-api-rest-no-android-com-retrofit-em-kotlin-parte-4-c60683ff0ee8)
 
+#### Lista de Apis abertas
+
+ - [Public Apis](https://github.com/public-apis/public-apis)
+
 ## Libraries Importantes
 
  ### Retofit
@@ -87,3 +96,20 @@ Para visualizar os roadmaps acesse o [DRAW.IO](https://draw.io)  e importe para 
 **Glide** é uma biblioteca de carregamento de imagens rápida e eficiente para Android focada em rolagem suave. O Glide oferece uma API fácil de usar, um pipeline de decodificação de recursos extensível e de alto desempenho e pool automático de recursos. [🔗 Fonte](https://bumptech.github.io/glide/)
 
  - [📄 Documentação ](https://bumptech.github.io/glide/)
+
+## Desafios
+
+Ao resolver o desafio, **recomenda-se** que clone este projeto e coloque o mesmo na pasta **challanges**, com o nome *levelx-nome-desafio-seu-nome* e faça um pull request, para que possamos avaliar e também para ajudar aoutras pessoas.
+
+### Level 1
+**Desafio de POO :** Crie um programa em Java ou Kotlin, que simule uma conta bancária, nesse desafio, você deve usar todos os conceitos aprendidos na linguagem, como herança, polimorfismo, metodos acessores dentre outros assuntos estudados.
+
+### Level 2
+**Desafio do Layout :**  Com o que aprendeu de desenvolvimento de Layouts em android, desenvolva um app de cartão de visitas virtual, os dados apresentados na tela do app será estatico por hora.
+
+### Level 3
+**Desafio da Pokedex :** Crie uma pokedex consumindo os dados da [PokeApi](https://pokeapi.co/), na primeira tela mostre a lista dos pokemons e ao clicar em qualquer um deles, deve-se mostrar em outra activity dados como: Nome, imagem e tipos.
+Para inspirar, temos um [exemplo](https://github.com/guilhermeberson/Pokedex-Android-Kotlin) que criei da uma pokedex, utilizando esta mesma Api, é só clonar e exacutar.
+
+**Desafio do Rick&Morty** Crie uma Wiki de Rick&Morty utilizando a [Api Rick&Morty](https://rickandmortyapi.com/documentation), assim como na pokedex, deve-se ter uma primeira activity listando os personagens e ao clicar em algum ir para uma activity com os dados do mesmo.
+Para inspirar, temos um [exemplo](https://github.com/guilhermeberson/Rickpedia-Android_Concepts) que criei de uma Rickpedia, utilizando esta mesma Api, só clonar e executar.
